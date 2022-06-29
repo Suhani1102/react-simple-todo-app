@@ -16,4 +16,4 @@ With refs we can set up connection b/w a HTML element which is being rendered in
 What does useRef return & what value it takes?<br/>
 It takes default value you wanna initialize it to, it returns value which allows us to work with that ref later.
 
-If you just eant to read a value refs are probably better than state.
+If you just want to read a value refs are probably better than state.
